@@ -6,22 +6,25 @@ Te apresento o Januário, profissional de TI vindo dos cafundó do nordeste.
 
 O nordeste é lindo e cuscuz faz bem!
 
-## Instrução de instalação e execução:
+## Instrução de instalação
 
-1. Rode o comando abaixo para instalar as dependências:
+1. Execute os comandos abaixo para instalar as dependências:
 
 ```
+sudo apt install pip
 sudo pip install -r requirements.txt
 ```
+
+## Instruções de execução
 
 2. Execute a aplicação:
  
 ```
-python3 januario_v1.py
+python3 januario.py
 ```
 
 ### Considerações finais
-- Nós, nordestimos temos orgulho em ter um sotaque tão característico, é uma marca registrada.
+- Nós, nordestinos temos orgulho em ter um sotaque tão característico, é uma marca registrada.
 
 - Removi os filtros de segurança desta aplicação, não me responsabilizo por quaisquer palavras ou contextos em que esta aplicação se insira.
 
