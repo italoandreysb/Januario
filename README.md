@@ -8,8 +8,7 @@ Te apresento o Januário, profissional de TI vindo dos cafundó do nordeste.
 
 Aplicação feita por um nordestino, reforçando nossa forma descontraída e leve de conversar :)
 
-Inspiração nome: [Link](https://www.youtube.com/watch?v=DP8f73AHUtg&t=3s) (É uma música famosa na minha região.)
-
+Inspiração do nome vem de uma música famosa em minha região: [Link](https://www.youtube.com/watch?v=DP8f73AHUtg&t=3s)
 
 
 ## Instrução de instalação
@@ -20,6 +19,7 @@ Inspiração nome: [Link](https://www.youtube.com/watch?v=DP8f73AHUtg&t=3s) (É 
 sudo apt install pip
 sudo pip install -r requirements.txt
 ```
+2. Descomente a linha "**#GOOGLE_API_KEY="INSIRA_SUA_API_KEY**" no arquivo "januario.py" e insira sua API_KEY.
 
 ## Instruções de execução
 
