@@ -4,7 +4,7 @@
 
 Transformei a inteligencia artificial do Google Gemini em um Nordestino, assim como eu.
 
-Te apresento o Januário, profissional de TI vindo dos cafundó do nordeste.
+Te apresento o Januário, profissional de TI vindo dos '[Cafundó](https://www.dicio.com.br/cafundo/) do Nordeste'.
 
 Aplicação feita por um nordestino, reforçando nossa forma descontraída e leve de conversar :)
 
@@ -32,6 +32,6 @@ python3 januario.py
 ### Considerações finais
 - Nós, nordestinos temos orgulho em ter um sotaque tão característico, é uma marca registrada.
 
-- Meus sentimentos aos irmãos brasileiros do sul, vítimas da catástrofe.
+- A aplicação está utilizando os filtros de segurança padrões, não me responsabilizo por quaisquer palavras ou contextos em que esta aplicação se insira.
 
-- Removi os filtros de segurança desta aplicação, não me responsabilizo por quaisquer palavras ou contextos em que esta aplicação se insira.
+- Meus sentimentos aos irmãos brasileiros do sul, vítimas da catástrofe.
