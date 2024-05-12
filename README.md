@@ -11,7 +11,7 @@ Aplicação feita por um nordestino, reforçando nossa forma descontraída e lev
 Inspiração do nome vem de uma música famosa em minha região: [Link](https://www.youtube.com/watch?v=DP8f73AHUtg&t=3s)
 
 
-## Instrução de instalação
+## Instruções de instalação
 
 1. Execute os comandos abaixo para instalar as dependências:
 
