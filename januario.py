@@ -13,14 +13,10 @@ generation_config = {
     "temperature": 1,
 }
 
-# Configurando filtros de segurança
+# Optando por segurança padrão
 safety_settings = {
-    "HARASSMENT": "BLOCK_NONE",
-    "HATE": "BLOCK_NONE",
-    "SEXUAL": "BLOCK_NONE",
-    "DANGEROUS": "BLOCK_NONE",
+  
 }
-
 
 # Escolhendo a versão do modelo a ser utilizado
 model = genai.GenerativeModel(model_name="gemini-1.0-pro",
